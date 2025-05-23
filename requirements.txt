@@ -1,0 +1,4 @@
+Pandas
+SpaCy
+Torch
+Transformers
